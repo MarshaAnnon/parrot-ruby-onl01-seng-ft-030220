@@ -1,4 +1,4 @@
 def parrot (phrase="Squawk!")
-  "Pretty bird!"
+  "Squawk!"
   puts "#{phrase}"
 end
